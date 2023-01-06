@@ -1,3 +1,5 @@
+# TODO: highlight transformational elements
+
 from manim import *
 
 _template = TexTemplate()
